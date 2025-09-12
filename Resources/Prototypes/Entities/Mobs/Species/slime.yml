@@ -67,7 +67,7 @@
 
 - type: entity
   name: Urist McSlime
-  parent: BaseMobSpeciesOrganic
+  parent: BaseMobHuman
   id: BaseMobSlimePerson
   abstract: true
   components:
